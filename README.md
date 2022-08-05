@@ -1,7 +1,7 @@
 # CSAPP
 CSAPP中的实验
 
-clone repo
+git clone git@github.com:ambition-xx/CSAPP.git
 
 cd CSAPP/Lab1
 
